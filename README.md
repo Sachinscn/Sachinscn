@@ -106,15 +106,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sachinscn&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
 
 # 🌐 Connect with Me
 
