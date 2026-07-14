@@ -68,8 +68,6 @@
 
 | Project | Description |
 |----------|-------------|
-| 🚑 Ambulance Dispatch System | Smart ambulance booking platform |
-| 🌾 Kisan Suvidha | AI-powered agriculture platform |
 | 🧠 AI Medical Report Summarizer | AI-based report analyzer |
 | 💪 Fitness46 | Fitness & Nutrition website |
 | 📚 DSA Repository | DSA practice solutions |
